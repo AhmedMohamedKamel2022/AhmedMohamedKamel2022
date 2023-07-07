@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Ahmed
+#### I'm Data Scientist
+![I'm Data Scientist](https://github.com/account)
 
-<!--
-**AhmedMohamedKamel2022/AhmedMohamedKamel2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am curious and passionate about data science, analysis,
+and visualization. Currently, I am looking for an impressive
+opportunity with an organization where I can take on new
+challenges and improve my skills that will help me gain
+professional and scientific experience.
 
-Here are some ideas to get you started:
+Skills: Python / SQL / Web scraping using Beautiful Soup / Statistics for data analysis / Data Manipulation and wrangling / Data Visualization / Data Analysis / Machine learning / Power Bi / Tableau / Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
