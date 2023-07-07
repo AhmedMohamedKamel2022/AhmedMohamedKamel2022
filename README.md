@@ -1,27 +1,13 @@
-### Hi there 👋, I'm Ahmed
-#### I'm Data Scientist
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am curious and passionate about data science, analysis,
-and visualization. Currently, I am looking for an impressive
-opportunity with an organization where I can take on new
-challenges and improve my skills that will help me gain
-professional and scientific experience.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: 
-* Python
-* SQL
-* Web scraping using Beautiful Soup
-* Statistics for data analysis
-* Data Manipulation and wrangling
-* Data Visualization
-* Data Preprocessing
-* Machine learning techniques
-* Power BI
-* Tableau
-* Streamlit  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedMohamedKamel2022)  
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedMohamedKamel2022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ahmed Mohamed Kamel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ahmed Kamel)  
 
